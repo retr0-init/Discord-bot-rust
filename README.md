@@ -1,6 +1,6 @@
 # Discord bot for democracy process
 
-test git repo
+test git repo 12345
 
 ## Deployment
 1. Install rust with rustup. Check the [official website](https://rustup.rs).

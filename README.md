@@ -1,5 +1,7 @@
 # Discord bot for democracy process
 
+test git repo
+
 ## Deployment
 1. Install rust with rustup. Check the [official website](https://rustup.rs).
 2. `cargo install cargo-shuttle`
